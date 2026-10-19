@@ -1,0 +1,7 @@
+{
+  "phase": 0,
+  "rel_L2_vs_FEM": 0.0003666120529364833,
+  "pass_criterion": 0.01,
+  "passed": true,
+  "fem_selfconv_rel": 1.7886115453478308e-05
+}

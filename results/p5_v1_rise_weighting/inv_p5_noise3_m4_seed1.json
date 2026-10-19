@@ -1,0 +1,27 @@
+{
+  "config": "p5_noise3_m4",
+  "seed": 1,
+  "m": 4,
+  "noise": 0.03,
+  "n_true": 3.4,
+  "n_fixed": null,
+  "w_res": 10.0,
+  "w_curv": 0.0001,
+  "adam_iters": 5000,
+  "lbfgs_iters": 12000,
+  "n_col": 64,
+  "n_hot": 32,
+  "n_loads": 5,
+  "T_top": 2.15,
+  "design": "full",
+  "n_mode": "scalar",
+  "n_profiles": 20,
+  "T_coverage_K": [
+    1.7,
+    2.150000000000346
+  ],
+  "F_maxrel_band": 0.6695775056028676,
+  "F_rmsrel_band": 0.2039701215257718,
+  "F_pass_10pct": false,
+  "n_recovered": 3.086979423224329
+}

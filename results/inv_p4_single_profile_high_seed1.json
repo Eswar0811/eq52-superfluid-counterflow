@@ -1,0 +1,27 @@
+{
+  "config": "p4_single_profile_high",
+  "seed": 1,
+  "m": 8,
+  "noise": 0.0,
+  "n_true": 3.4,
+  "n_fixed": null,
+  "w_res": 10.0,
+  "w_curv": 1e-06,
+  "adam_iters": 5000,
+  "lbfgs_iters": 12000,
+  "n_col": 64,
+  "n_hot": 32,
+  "n_loads": 5,
+  "T_top": 2.15,
+  "design": "single_profile_high",
+  "n_mode": "scalar",
+  "n_profiles": 1,
+  "T_coverage_K": [
+    1.7,
+    2.150000000000138
+  ],
+  "F_maxrel_band": 0.30440649923087243,
+  "F_rmsrel_band": 0.11183475470581877,
+  "F_pass_10pct": false,
+  "n_recovered": 2.778159365561322
+}

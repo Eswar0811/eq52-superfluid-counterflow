@@ -1,0 +1,28 @@
+{
+  "config": "p4_assume_n3",
+  "seed": 2,
+  "props": "nist",
+  "m": 8,
+  "noise": 0.0,
+  "n_true": 3.4,
+  "n_fixed": 3.0,
+  "w_res": 10.0,
+  "w_curv": 1e-06,
+  "adam_iters": 5000,
+  "lbfgs_iters": 12000,
+  "n_col": 64,
+  "n_hot": 32,
+  "n_loads": 5,
+  "T_top": 2.15,
+  "wd_mode": "sigma",
+  "design": "full",
+  "n_mode": "fixed",
+  "n_profiles": 20,
+  "T_coverage_K": [
+    1.7,
+    2.150000000000003
+  ],
+  "F_maxrel_band": 0.5263700461061079,
+  "F_rmsrel_band": 0.34291666008384053,
+  "F_pass_10pct": false
+}

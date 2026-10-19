@@ -1,0 +1,28 @@
+{
+  "config": "p4_nfun_full",
+  "seed": 2,
+  "m": 8,
+  "noise": 0.0,
+  "n_true": "3.25->3.55 linear in T",
+  "n_fixed": null,
+  "w_res": 10.0,
+  "w_curv": 1e-06,
+  "adam_iters": 5000,
+  "lbfgs_iters": 12000,
+  "n_col": 64,
+  "n_hot": 32,
+  "n_loads": 5,
+  "T_top": 2.15,
+  "design": "full",
+  "n_mode": "function",
+  "n_profiles": 20,
+  "T_coverage_K": [
+    1.7,
+    2.1499999999999937
+  ],
+  "F_maxrel_band": 0.0885715402370329,
+  "F_rmsrel_band": 0.031897245423824265,
+  "F_pass_10pct": true,
+  "n_fun_maxabs_err": 0.027938727213805414,
+  "n_fun_rms_err": 0.009780473514239177
+}

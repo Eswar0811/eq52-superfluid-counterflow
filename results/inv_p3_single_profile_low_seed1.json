@@ -1,0 +1,26 @@
+{
+  "config": "p3_single_profile_low",
+  "seed": 1,
+  "m": 8,
+  "noise": 0.0,
+  "n_true": 3.4,
+  "n_fixed": 3.4,
+  "w_res": 10.0,
+  "w_curv": 1e-06,
+  "adam_iters": 5000,
+  "lbfgs_iters": 12000,
+  "n_col": 64,
+  "n_hot": 32,
+  "n_loads": 5,
+  "T_top": 2.15,
+  "design": "single_profile_low",
+  "n_mode": "fixed",
+  "n_profiles": 1,
+  "T_coverage_K": [
+    1.7,
+    1.7118596589005481
+  ],
+  "F_maxrel_band": 0.9626450055178116,
+  "F_rmsrel_band": 0.524648216966028,
+  "F_pass_10pct": false
+}

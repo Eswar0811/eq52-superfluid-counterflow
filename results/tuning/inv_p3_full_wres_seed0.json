@@ -1,0 +1,25 @@
+{
+  "config": "p3_full",
+  "seed": 0,
+  "m": 8,
+  "noise": 0.0,
+  "n_true": 3.4,
+  "n_fixed": 3.4,
+  "w_res": 100,
+  "w_curv": 1e-06,
+  "adam_iters": 5000,
+  "lbfgs_iters": 12000,
+  "n_col": 64,
+  "n_hot": 32,
+  "n_loads": 5,
+  "design": "full",
+  "n_mode": "fixed",
+  "n_profiles": 20,
+  "T_coverage_K": [
+    1.7,
+    2.120000000000012
+  ],
+  "F_maxrel_band": 0.2740409431235222,
+  "F_rmsrel_band": 0.045770362975596286,
+  "F_pass_10pct": false
+}
